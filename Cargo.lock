@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "my_lib"
+name = "my_lib_akniet"
 version = "0.1.0"
