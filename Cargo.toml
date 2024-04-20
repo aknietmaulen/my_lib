@@ -3,8 +3,8 @@ name = "my_lib_akniet"
 version = "0.1.0"
 authors = ["Akniet Maulen"]
 license = "Apache-2.0"
-homepage = "https://github.com/aknietmaulen/my_lib_akniet"
-repository = "https://github.com/aknietmaulen/my_lib_akniet"
+homepage = "https://github.com/aknietmaulen/my_lib"
+repository = "https://github.com/aknietmaulen/my_lib"
 description = "A library for sorting"
 edition = "2021"
 
