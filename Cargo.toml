@@ -5,6 +5,7 @@ authors = ["Akniet Maulen"]
 license = "Apache-2.0"
 homepage = "https://github.com/aknietmaulen/my_lib"
 repository = "https://github.com/aknietmaulen/my_lib"
+description = "A library for [insert brief description of what your library does]"
 edition = "2021"
 
 
